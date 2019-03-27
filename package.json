@@ -6,7 +6,7 @@
     "author": "Michael McCluskey <mjm10r@my.fsu.edu> (https://gitub.com/bertrandmartel)",
     "license": "MIT",
     "devDependencies": {
-        "bower": "^1.7.7",
+        "bower": "^1.8.8",
         "browser-sync": "^2.13.0",
         "gulp": "^3.9.1",
         "gulp-clean-css": "^2.0.10",
