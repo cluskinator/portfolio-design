@@ -5,11 +5,6 @@
             "name": "Github",
             "link": "https://github.com/cluskinator ",
             "font": "fa-github"
-        },
-        {
-            "name": "LinkedIn",
-            "link": "http://stackoverflow.com/users/2614364/bertrand-martel",
-            "font": "fa-linkedin"
         }
     ],
     "title": "Software Engineer",
@@ -21,7 +16,7 @@
     },
     "social": [
         {
-            "link": "https://fr.linkedin.com/in/bertrand-martel-66445068",
+            "link": "https://www.linkedin.com/in/mmccluskey1/",
             "font": "fa-linkedin"
         }
     ],
@@ -63,23 +58,19 @@
         "description": "Software developer at Deloitte. I specialize in the following applications:",
         "tags": [
             {
-                "name": "Smart Home",
-                "font": "fa-home"
+                "name": "Angular",
+                "font": "fa-link"
             },
             {
                 "name": "Mobile Design",
                 "font": "fa-mobile"
             },
             {
-                "name": "Connected Objects",
-                "font": "fa-link"
-            },
-            {
-                "name": "APIs",
+                "name": "API development",
                 "font": "fa-plug"
             },
             {
-                "name": "backend",
+                "name": "Database engineering and scripting",
                 "font": "fa-server"
             }
         ]
