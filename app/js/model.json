@@ -1,0 +1,182 @@
+{
+    "name": "Michael McCluskey",
+    "services": [
+        {
+            "name": "Github",
+            "link": "https://github.com/cluskinator ",
+            "font": "fa-github"
+        },
+        {
+            "name": "LinkedIn",
+            "link": "http://stackoverflow.com/users/2614364/bertrand-martel",
+            "font": "fa-linkedin"
+        }
+    ],
+    "title": "Software Engineer",
+    "copyright": "Copyright © Michael McCluskey",
+    "email": "mjm10r@my.fsu.edu",
+    "location": {
+        "city": "Washington, D.C.",
+        "country": "USA"
+    },
+    "social": [
+        {
+            "link": "https://fr.linkedin.com/in/bertrand-martel-66445068",
+            "font": "fa-linkedin"
+        }
+    ],
+    "openSourceLimit": 5,
+    "openSourceShowMore": 5,
+    "appsLimit": 5,
+    "appsShowMore": 5,
+    "sections": [
+        {
+            "id": "about",
+            "name": "About"
+        },
+        {
+            "id": "technologies",
+            "name": "Technologies"
+        },
+        {
+            "id": "experience",
+            "name": "Experience"
+        },
+        {
+            "id": "education",
+            "name": "Education"
+        },
+        {
+            "id": "opensource",
+            "name": "Open Source"
+        },
+        {
+            "id": "software",
+            "name": "Apps/Software"
+        },
+        {
+            "id": "contact",
+            "name": "Contact"
+        }
+    ],
+    "about": {
+        "description": "Software developer at Deloitte. I specialize in the following applications:",
+        "tags": [
+            {
+                "name": "Smart Home",
+                "font": "fa-home"
+            },
+            {
+                "name": "Mobile Design",
+                "font": "fa-mobile"
+            },
+            {
+                "name": "Connected Objects",
+                "font": "fa-link"
+            },
+            {
+                "name": "APIs",
+                "font": "fa-plug"
+            },
+            {
+                "name": "backend",
+                "font": "fa-server"
+            }
+        ]
+    },
+    "languages": [
+        "C#",
+        "Java",
+        "JavaScript",
+        "SQL"
+    ],
+    "sort": [
+        "Most stars",
+        "Most recent",
+        "Oldest"
+    ],
+    "technologies": [
+        "Java",
+        "C#",
+        "JavaScript",
+        "Bash",
+        "Linux",
+        "MongoDB",
+        "NodeJS",
+        "Angular",
+        "React"
+    ],
+    "experience": [
+        {
+            "dateBegin": "2015-10-05",
+            "dateEnd": "",
+            "description": "Software Developer at Deloitte",
+            "tags": [
+                "C#",
+                "JavaScript",
+                ".NET Framework",
+                "NodeJS",
+                "Azure",
+                "Web",
+                "API Development",
+                "SQL",
+                "Angular",
+                "Backend"
+            ],
+            "image": "assets/images/company.png"
+        }
+    ],
+    "education": [
+        {
+            "dateBegin": "2011-08-28",
+            "dateEnd": "2013-09-01",
+            "image": "assets/images/school.png",
+            "description": "Master of Business Administration, Florida State University",
+            "tags": [
+                "SQL",
+                "Finance",
+                "Economics",
+                "Monetary policy",
+                "Project management",
+                "Python",
+                "Project consulting"
+            ]
+        }
+    ],
+    "opensource": [
+        {
+            "name": "Spotify API and SeatGeek API",
+            "description": "Spotify API query that plays 30 second song sample",
+            "link": "https://github.com/bludemann27/ProjectOne",
+            "tags": [
+                "spotify-API",
+                "seatgeek-API",
+                "JavaScript"
+            ],
+            "stars": 1,
+            "dateBegin": "2019-01-01",
+            "dateEnd": "2019-02-01",
+            "languages": [
+                "CSS",
+                "JavaScript",
+                "HTML"
+            ]
+        },
+        {
+            "name": "iOS application built in Swift for language learning applications",
+            "tags": [
+                "swift",
+                "mobile",
+                "iOS-development"
+            ],
+            "description": "Swift",
+            "link": "https://github.com/cluskinator/worldphone-ios",
+            "stars": 0,
+            "dateBegin": "2019-01-01",
+            "dateEnd": "2016-02-01",
+            "languages": [
+                "swift"
+            ]
+        }
+    ]
+}
